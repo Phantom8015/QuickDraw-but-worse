@@ -1,6 +1,6 @@
 # QuickDraw but worse
 
-This is a Google QuickDraw style game that is meant to be worse than the original game.
+This is a Google QuickDraw style game that is.. definitely better than the original. 
 
 ## Description
 
