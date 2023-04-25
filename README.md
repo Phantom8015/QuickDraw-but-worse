@@ -4,7 +4,7 @@ This is a Google QuickDraw style game that is meant to be worse than the origina
 
 ## Description
 
-This game is a fun way to test your drawing skills! You will be given a word and you have to draw it as quickly as possible. The catch? You only have 10 seconds to draw it! If you don't finish in time, you lose.
+This game is a fun way to test your drawing skills! You will be given freedom to draw whatever you want. The AI will be trying to guess what you have drawn with the help of the exponentially large QuickDraw dataset.
 
 ## How to run the Python file from its directory
 
