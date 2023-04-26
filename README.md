@@ -8,8 +8,8 @@ This game is a fun way to test your drawing skills! You will be given freedom to
 
 ## How to start
 
-1. Click the green "Code" button.
-2. Click "Download ZIP"
+1. Click the green `"Code"` button.
+2. Click `"Download ZIP"`
 3. Extract the zip folder.
 4. Then open your terminal or command prompt and navigate to the directory where you have downloaded this repo. 
 5. Now that you're in the directory, do the command `pip install -r requirements.txt` to install dependencies.
