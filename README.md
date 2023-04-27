@@ -16,3 +16,8 @@ This game is a fun way to test your drawing skills! You will be given freedom to
 6. Finally, type `python main.py` in your terminal or command prompt and press Enter.
 
 That's it! Enjoy!
+
+
+## If you enjoy this app I would appreciate if you consider starring it. ⭐
+
+I am open to collaborate with other people for this project.
