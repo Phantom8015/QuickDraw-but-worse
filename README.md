@@ -1,4 +1,4 @@
-# QuickDraw but worse
+# QuickDraw but worse - This project is now deprecated
 
 This is a Google QuickDraw style game that is.. definitely better than the original. 
 
